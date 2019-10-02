@@ -1,5 +1,6 @@
 # a block is a block of code.
 # a block can be given to a method.
+#block_given tells you if a block was given to the method
 
 
 def my_each(array)

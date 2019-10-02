@@ -1,6 +1,8 @@
 # a block is a block of code.
+# a block begins with do, ends with end
 # a block can be given to a method.
-#block_given tells you if a block was given to the method
+# block_given tells you if a block was given to the method
+# | | are used to specify argument for block
 
 
 def my_each(array)
@@ -24,7 +26,6 @@ def hello_t(array)
     puts "Hey! No block was given!"
   end
 end
-
 
 
 

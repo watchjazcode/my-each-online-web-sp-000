@@ -28,12 +28,3 @@ def my_each(array)
   end
 end
 
-
-
-
-
-#my_each([1, 2, 3, 4]) do |i|
-  #if name.start_with?("T")
-    #puts i
-  #end
-#end

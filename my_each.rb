@@ -1,3 +1,7 @@
+# a block is a block of code.
+# a block can be given to a method.
+
+
 def my_each(array)
   
   while nil

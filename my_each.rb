@@ -15,7 +15,7 @@
 
 def my_each(array)
   
-  while nil
+  while 
 
   end
 end

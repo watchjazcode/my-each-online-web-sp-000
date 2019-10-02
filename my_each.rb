@@ -1,5 +1,8 @@
 def my_each(array)
-  # code here
+  
+  while
+
+  end
 end
 
 def hello_t(array)
